@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bohdan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bohdan</h1>
 <h3 align="center">A passionate Data Engineer from Ukraine</h3>
+
+- 🔭 I’m currently working on something cool :wink:
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Big Data**
+- 💬 Ask me about anything related to **Big Data**
 
 - 📫 How to reach me **m.bvynnytskyi@gmail.com**
+
+- ⚡ Fun fact: I :heart: :dog:s
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,6 +22,8 @@
   </a>
 <a href="https://medium.com/@mbvyn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mbvyn" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/bohdan-vynnytskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan-vynnytskyi" height="30" width="40" />
   </a>
 </p>
 
@@ -75,8 +81,5 @@
   </a>    
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbvyn&show_icons=true&locale=en&layout=compact" alt="mbvyn" />
-</p>
 
 
