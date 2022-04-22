@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything related to **Big Data**
 
-- [📫 Reach me by email](mailto:**m.bvynnytskyi@gmail.com**)
+- [📫 Reach me by email](mailto:m.bvynnytskyi@gmail.com)
 
 - ⚡ Fun fact: I :heart: :dog:s
  
