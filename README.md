@@ -13,6 +13,7 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Apache Airflow configured with Local Executor and Spark Standalone Cluster with Docker](https://mbvyn.medium.com/building-an-apache-airflow-configured-with-local-executor-and-spark-standalone-cluster-with-docker-283e5f66f73b?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
