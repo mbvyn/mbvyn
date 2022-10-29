@@ -3,7 +3,7 @@
 
 - 🔭 Working on something cool :wink:
 
-- 🌱 Currently learning **AWS**
+- 🌱 Currently learning **AWS** and **Go**
 
 - 💬 Ask me about anything related to **Big Data**
 
