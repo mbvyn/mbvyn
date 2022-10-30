@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker for Beginners](https://mbvyn.medium.com/docker-for-beginners-70acf4d5ec3d?source=rss-aefe58b8f16b------2)
 - [Understanding Hadoop. MapReduce](https://mbvyn.medium.com/understanding-hadoop-mapreduce-14a881ffe606?source=rss-aefe58b8f16b------2)
 - [Understanding Hadoop. Yarn](https://mbvyn.medium.com/understanding-hadoop-yarn-8d787b3ba4ff?source=rss-aefe58b8f16b------2)
 - [Understanding Hadoop. HDFS](https://mbvyn.medium.com/understanding-hadoop-hdfs-e45f51d2e7a9?source=rss-aefe58b8f16b------2)
-- [Apache Spark Unit Testing with Scala](https://mbvyn.medium.com/apache-spark-unit-testing-with-scala-cef48caf4279?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
