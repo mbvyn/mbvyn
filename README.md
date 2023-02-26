@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI friend of humanity?](https://mbvyn.medium.com/ai-friend-of-humanity-978b7f4cdc9f?source=rss-aefe58b8f16b------2)
 - [Stop believing in Motivation](https://mbvyn.medium.com/stop-believing-in-motivation-62befbb30ae0?source=rss-aefe58b8f16b------2)
 - [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss-aefe58b8f16b------2)
 - [Docker for Beginners](https://mbvyn.medium.com/docker-for-beginners-70acf4d5ec3d?source=rss-aefe58b8f16b------2)
-- [Understanding Hadoop. MapReduce](https://mbvyn.medium.com/understanding-hadoop-mapreduce-14a881ffe606?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
