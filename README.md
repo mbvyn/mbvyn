@@ -3,7 +3,7 @@
 
 - 🔭 Working on something cool :wink:
 
-- 🌱 Currently learning **AWS**, **Spring Boot**, and **Go**
+- 🌱 Currently learning **Python**, **Kimbal**, **Spring Boot**, and **Go**
 
 - 💬 Ask me about anything related to **Big Data**
 
