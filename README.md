@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The world of messaging systems](https://mbvyn.medium.com/the-world-of-messaging-systems-6c74b428269d?source=rss-aefe58b8f16b------2)
 - [Just stop for a minute!](https://mbvyn.medium.com/just-stop-for-a-minute-59dac89b7615?source=rss-aefe58b8f16b------2)
 - [AI friend of humanity?](https://mbvyn.medium.com/ai-friend-of-humanity-978b7f4cdc9f?source=rss-aefe58b8f16b------2)
 - [Stop believing in Motivation](https://mbvyn.medium.com/stop-believing-in-motivation-62befbb30ae0?source=rss-aefe58b8f16b------2)
-- [Hive beginners guide](https://mbvyn.medium.com/hive-beginners-guide-439836c25d0b?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
