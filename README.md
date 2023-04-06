@@ -3,7 +3,7 @@
 
 - 🔭 Working on something cool :wink:
 
-- 🌱 Currently learning **Python**, **Kimbal**, **Databricks**, and **Go**
+- 🌱 Currently learning **dbt**, **Snowflake**, **Python**, **Kimbal**, and **Databricks**
 
 - 💬 Ask me about anything related to **Big Data**
 
