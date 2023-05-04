@@ -3,7 +3,7 @@
 
 - 🔭 Working on something cool :wink:
 
-- 🌱 Currently learning **dbt**, **Snowflake**, **Python**, **Kimbal**, and **Databricks**
+- 🌱 Currently learning **Snowflake**, **Python**, **Cucumber**, **Terraform** and **Databricks**
 
 - 💬 Ask me about anything related to **Big Data**
 
