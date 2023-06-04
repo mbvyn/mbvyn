@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Workflow Automation With Apache Airflow](https://mbvyn.medium.com/mastering-workflow-automation-with-apache-airflow-891b96fea34e?source=rss-aefe58b8f16b------2)
 - [The Future of Mental Health: Big Data and AI at the Forefront of Innovation](https://mbvyn.medium.com/the-future-of-mental-health-big-data-and-ai-at-the-forefront-of-innovation-d3df2d91aa7d?source=rss-aefe58b8f16b------2)
 - [5 Useful Tips to Pass AWS Developer Associate](https://mbvyn.medium.com/5-useful-tips-to-pass-aws-developer-associate-aad64626871c?source=rss-aefe58b8f16b------2)
 - [The world of messaging systems](https://mbvyn.medium.com/the-world-of-messaging-systems-6c74b428269d?source=rss-aefe58b8f16b------2)
-- [Just stop for a minute!](https://mbvyn.medium.com/just-stop-for-a-minute-59dac89b7615?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
