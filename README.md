@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding dbt](https://mbvyn.medium.com/understanding-dbt-7bf7ece98f63?source=rss-aefe58b8f16b------2)
 - [In Search of Better Horizons](https://mbvyn.medium.com/in-search-of-better-horizons-cab108ff26ce?source=rss-aefe58b8f16b------2)
 - [The Time Odyssey](https://mbvyn.medium.com/the-time-odyssey-a35940a01e37?source=rss-aefe58b8f16b------2)
 - [Mastering Workflow Automation With Apache Airflow](https://mbvyn.medium.com/mastering-workflow-automation-with-apache-airflow-891b96fea34e?source=rss-aefe58b8f16b------2)
-- [The Future of Mental Health: Big Data and AI at the Forefront of Innovation](https://mbvyn.medium.com/the-future-of-mental-health-big-data-and-ai-at-the-forefront-of-innovation-d3df2d91aa7d?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
