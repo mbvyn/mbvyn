@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding dbt. Seeds and Sources](https://mbvyn.medium.com/understanding-dbt-seeds-and-sources-c5611be17d32?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Incremental materialization](https://mbvyn.medium.com/understanding-dbt-incremental-materialization-c32318364241?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Models](https://mbvyn.medium.com/understanding-dbt-models-10ef22a85573?source=rss-aefe58b8f16b------2)
 - [Top 5 Books for Data Engineers in 2024](https://mbvyn.medium.com/top-5-books-for-data-engineers-in-2024-439e190807d1?source=rss-aefe58b8f16b------2)
-- [Understanding dbt](https://mbvyn.medium.com/understanding-dbt-7bf7ece98f63?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
