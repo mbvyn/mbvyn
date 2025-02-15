@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding dbt. Tests](https://mbvyn.medium.com/understanding-dbt-tests-01c1642376a9?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Snapshots](https://mbvyn.medium.com/understanding-dbt-snapshots-33cd751dfefa?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Seeds and Sources](https://mbvyn.medium.com/understanding-dbt-seeds-and-sources-c5611be17d32?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Incremental materialization](https://mbvyn.medium.com/understanding-dbt-incremental-materialization-c32318364241?source=rss-aefe58b8f16b------2)
-- [Understanding dbt. Models](https://mbvyn.medium.com/understanding-dbt-models-10ef22a85573?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
