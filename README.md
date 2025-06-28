@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to pass dbt Analytics Engineering Certification Exam](https://mbvyn.medium.com/how-to-pass-dbt-analytics-engineering-certification-exam-c25ad7234bb4?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Monitoring](https://mbvyn.medium.com/understanding-dbt-monitoring-2844411093d2?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Commands](https://mbvyn.medium.com/understanding-dbt-commands-9c92d1fe1130?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Documentation](https://mbvyn.medium.com/understanding-dbt-documentation-b65b12d4c347?source=rss-aefe58b8f16b------2)
-- [Understanding dbt. Exposures](https://mbvyn.medium.com/understanding-dbt-exposures-a98a072bb86e?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
