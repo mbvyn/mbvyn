@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft Fabric: OneLake](https://mbvyn.medium.com/understanding-microsoft-fabric-onelake-d13151624d57?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Introduction to the Platform](https://mbvyn.medium.com/understanding-microsoft-fabric-introduction-to-the-platform-bee27cca33bc?source=rss-aefe58b8f16b------2)
 - [How to pass dbt Analytics Engineering Certification Exam](https://mbvyn.medium.com/how-to-pass-dbt-analytics-engineering-certification-exam-c25ad7234bb4?source=rss-aefe58b8f16b------2)
 - [Understanding dbt. Monitoring](https://mbvyn.medium.com/understanding-dbt-monitoring-2844411093d2?source=rss-aefe58b8f16b------2)
-- [Understanding dbt. Commands](https://mbvyn.medium.com/understanding-dbt-commands-9c92d1fe1130?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
