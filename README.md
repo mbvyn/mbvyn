@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons Your Business Needs a Website](https://mbvyn.medium.com/5-reasons-your-business-needs-a-website-898f19c1f12e?source=rss-aefe58b8f16b------2)
 - [Why Parquet Matters in Modern Data Workflows](https://mbvyn.medium.com/why-parquet-matters-in-modern-data-workflows-ffe00d05bb2f?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: OneLake](https://mbvyn.medium.com/understanding-microsoft-fabric-onelake-d13151624d57?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Introduction to the Platform](https://mbvyn.medium.com/understanding-microsoft-fabric-introduction-to-the-platform-bee27cca33bc?source=rss-aefe58b8f16b------2)
-- [How to pass dbt Analytics Engineering Certification Exam](https://mbvyn.medium.com/how-to-pass-dbt-analytics-engineering-certification-exam-c25ad7234bb4?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
