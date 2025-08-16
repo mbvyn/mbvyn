@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Parquet vs CSV vs JSON: What’s the Difference?](https://mbvyn.medium.com/parquet-vs-csv-vs-json-whats-the-difference-ce755a1c2767?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Lakehouse](https://mbvyn.medium.com/understanding-microsoft-fabric-lakehouse-04ca1737f349?source=rss-aefe58b8f16b------2)
 - [5 Reasons Your Business Needs a Website](https://mbvyn.medium.com/5-reasons-your-business-needs-a-website-898f19c1f12e?source=rss-aefe58b8f16b------2)
 - [Why Parquet Matters in Modern Data Workflows](https://mbvyn.medium.com/why-parquet-matters-in-modern-data-workflows-ffe00d05bb2f?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: OneLake](https://mbvyn.medium.com/understanding-microsoft-fabric-onelake-d13151624d57?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
