@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft Fabric: Notebooks](https://mbvyn.medium.com/understanding-microsoft-fabric-notebooks-d910df989687?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Pipelines](https://mbvyn.medium.com/understanding-microsoft-fabric-pipelines-89239be34d4a?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Dataflows Gen2](https://mbvyn.medium.com/understanding-microsoft-fabric-dataflows-gen2-32acac42efa5?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Warehouse](https://mbvyn.medium.com/understanding-microsoft-fabric-warehouse-4a0a2cdb8926?source=rss-aefe58b8f16b------2)
-- [Parquet vs CSV vs JSON: What’s the Difference?](https://mbvyn.medium.com/parquet-vs-csv-vs-json-whats-the-difference-ce755a1c2767?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
