@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft Fabric: Streaming Dataflows](https://mbvyn.medium.com/understanding-microsoft-fabric-streaming-dataflows-3af03126deac?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Eventhouse](https://mbvyn.medium.com/understanding-microsoft-fabric-eventhouse-9614079f640c?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: KQL and Real-Time Analytics](https://mbvyn.medium.com/understanding-microsoft-fabric-kql-and-real-time-analytics-49f40e573b1b?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Notebooks](https://mbvyn.medium.com/understanding-microsoft-fabric-notebooks-d910df989687?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: Pipelines](https://mbvyn.medium.com/understanding-microsoft-fabric-pipelines-89239be34d4a?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
