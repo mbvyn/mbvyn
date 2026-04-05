@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft Fabric: Data Activator — How to Automate Alerts and Actions Based on Your…](https://mbvyn.medium.com/understanding-microsoft-fabric-data-activator-how-to-automate-alerts-and-actions-based-on-your-6ffa54fa7c29?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Monitor, Troubleshoot, and Diagnose Issues Across Your…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-monitor-troubleshoot-and-diagnose-issues-across-your-1f1d61e1f669?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Optimize Cost and Performance Across Your Entire Fabric…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-optimize-cost-and-performance-across-your-entire-fabric-73f1d811a4f3?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Secure Your Data with RLS, CLS, OneLake Security, and More](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-secure-your-data-with-rls-cls-onelake-security-and-more-4cf9c0cdb272?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: Incremental Data Loads](https://mbvyn.medium.com/understanding-microsoft-fabric-incremental-data-loads-a6abe2d61c18?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
