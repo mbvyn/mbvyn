@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Microsoft Fabric: AI Integration and Copilot Features That Change How You Work with…](https://mbvyn.medium.com/understanding-microsoft-fabric-ai-integration-and-copilot-features-that-change-how-you-work-with-9daaeb6bdb18?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Unify Multi-Cloud Data with Shortcuts and External…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-unify-multi-cloud-data-with-shortcuts-and-external-f6f0a0f0c5b7?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: Data Activator — How to Automate Alerts and Actions Based on Your…](https://mbvyn.medium.com/understanding-microsoft-fabric-data-activator-how-to-automate-alerts-and-actions-based-on-your-6ffa54fa7c29?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Monitor, Troubleshoot, and Diagnose Issues Across Your…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-monitor-troubleshoot-and-diagnose-issues-across-your-1f1d61e1f669?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: How to Optimize Cost and Performance Across Your Entire Fabric…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-optimize-cost-and-performance-across-your-entire-fabric-73f1d811a4f3?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
