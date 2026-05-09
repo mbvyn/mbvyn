@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Prepare for the DP-700 Certification with Microsoft Fabric](https://mbvyn.medium.com/how-to-prepare-for-the-dp-700-certification-with-microsoft-fabric-5d98ecde7f47?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Implement CI/CD, Deployment Pipelines, and Version Control…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-implement-ci-cd-deployment-pipelines-and-version-control-79435c130df0?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Structure and Manage Workspaces for Teams, Governance, and…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-structure-and-manage-workspaces-for-teams-governance-and-64a28ca9d9db?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: AI Integration and Copilot Features That Change How You Work with…](https://mbvyn.medium.com/understanding-microsoft-fabric-ai-integration-and-copilot-features-that-change-how-you-work-with-9daaeb6bdb18?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: How to Unify Multi-Cloud Data with Shortcuts and External…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-unify-multi-cloud-data-with-shortcuts-and-external-f6f0a0f0c5b7?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
