@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: Honest Comparison with Snowflake and BigQuery](https://mbvyn.medium.com/understanding-databricks-honest-comparison-with-snowflake-and-bigquery-f53c5621a2c5?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: What It Is and Why It Matters](https://mbvyn.medium.com/understanding-databricks-what-it-is-and-why-it-matters-b0c922760785?source=rss-aefe58b8f16b------2)
 - [How to Prepare for the DP-700 Certification with Microsoft Fabric](https://mbvyn.medium.com/how-to-prepare-for-the-dp-700-certification-with-microsoft-fabric-5d98ecde7f47?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: How to Implement CI/CD, Deployment Pipelines, and Version Control…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-implement-ci-cd-deployment-pipelines-and-version-control-79435c130df0?source=rss-aefe58b8f16b------2)
-- [Understanding Microsoft Fabric: How to Structure and Manage Workspaces for Teams, Governance, and…](https://mbvyn.medium.com/understanding-microsoft-fabric-how-to-structure-and-manage-workspaces-for-teams-governance-and-64a28ca9d9db?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
