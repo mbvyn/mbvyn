@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: What a Modern Data Platform Looks Like in 2026](https://mbvyn.medium.com/understanding-databricks-what-a-modern-data-platform-looks-like-in-2026-649a95cf1293?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Azure vs AWS vs GCP — Which Cloud to Choose in 2026](https://mbvyn.medium.com/understanding-databricks-azure-vs-aws-vs-gcp-which-cloud-to-choose-in-2026-2101d04c5d0c?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Core Components You Need to Know](https://mbvyn.medium.com/understanding-databricks-core-components-you-need-to-know-fbede947e94e?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Honest Comparison with Snowflake and BigQuery](https://mbvyn.medium.com/understanding-databricks-honest-comparison-with-snowflake-and-bigquery-f53c5621a2c5?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: What It Is and Why It Matters](https://mbvyn.medium.com/understanding-databricks-what-it-is-and-why-it-matters-b0c922760785?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
