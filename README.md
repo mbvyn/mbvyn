@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: SCD Type 1 and Type 2 in Delta Lake](https://mbvyn.medium.com/understanding-databricks-scd-type-1-and-type-2-in-delta-lake-6ada4855c5d5?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Delta Lake in Practice — Create, Append, and Merge](https://mbvyn.medium.com/understanding-databricks-delta-lake-in-practice-create-append-and-merge-18b58f8f50c9?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Data Formats Explained — Parquet, ORC, Avro, and Delta](https://mbvyn.medium.com/understanding-databricks-data-formats-explained-parquet-orc-avro-and-delta-b8b561f6b4ec?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Medallion Architecture Explained Simply](https://mbvyn.medium.com/understanding-databricks-medallion-architecture-explained-simply-67085e47c40b?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: What a Modern Data Platform Looks Like in 2026](https://mbvyn.medium.com/understanding-databricks-what-a-modern-data-platform-looks-like-in-2026-649a95cf1293?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
