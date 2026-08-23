@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: Genie Explained — Genie One, Agents, and the Ontology](https://mbvyn.medium.com/understanding-databricks-genie-explained-genie-one-agents-and-the-ontology-710792b66c5a?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Optimizing Delta Tables](https://mbvyn.medium.com/understanding-databricks-optimizing-delta-tables-6065b1388676?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Time Travel in Delta Lake](https://mbvyn.medium.com/understanding-databricks-time-travel-in-delta-lake-42e45b34de83?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: SCD Type 1 and Type 2 in Delta Lake](https://mbvyn.medium.com/understanding-databricks-scd-type-1-and-type-2-in-delta-lake-6ada4855c5d5?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: Delta Lake in Practice — Create, Append, and Merge](https://mbvyn.medium.com/understanding-databricks-delta-lake-in-practice-create-append-and-merge-18b58f8f50c9?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
