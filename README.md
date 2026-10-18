@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: How to Structure a Databricks Project from Scratch](https://mbvyn.medium.com/understanding-databricks-how-to-structure-a-databricks-project-from-scratch-76de287671d6?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Lakebase and LTAP — The Operational Lakehouse](https://mbvyn.medium.com/understanding-databricks-lakebase-and-ltap-the-operational-lakehouse-8667ffc7f8c8?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Genie Explained — Genie One, Agents, and the Ontology](https://mbvyn.medium.com/understanding-databricks-genie-explained-genie-one-agents-and-the-ontology-710792b66c5a?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Optimizing Delta Tables](https://mbvyn.medium.com/understanding-databricks-optimizing-delta-tables-6065b1388676?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: Time Travel in Delta Lake](https://mbvyn.medium.com/understanding-databricks-time-travel-in-delta-lake-42e45b34de83?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
