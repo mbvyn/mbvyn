@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding dbt: What Changed Since dbt 1.7, and Where dbt Stands in 2026](https://mbvyn.medium.com/understanding-dbt-what-changed-since-dbt-1-7-and-where-dbt-stands-in-2026-e126baf69591?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Imperative vs Declarative, Two Ways to Build Pipelines](https://mbvyn.medium.com/understanding-databricks-imperative-vs-declarative-two-ways-to-build-pipelines-7ab4ada611bc?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: How to Structure a Databricks Project from Scratch](https://mbvyn.medium.com/understanding-databricks-how-to-structure-a-databricks-project-from-scratch-76de287671d6?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Lakebase and LTAP — The Operational Lakehouse](https://mbvyn.medium.com/understanding-databricks-lakebase-and-ltap-the-operational-lakehouse-8667ffc7f8c8?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: Genie Explained — Genie One, Agents, and the Ontology](https://mbvyn.medium.com/understanding-databricks-genie-explained-genie-one-agents-and-the-ontology-710792b66c5a?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
