@@ -13,10 +13,10 @@
  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Databricks: Six Sources into Bronze, the Imperative Way](https://mbvyn.medium.com/understanding-databricks-six-sources-into-bronze-the-imperative-way-20c2b16e1cb2?source=rss-aefe58b8f16b------2)
 - [Understanding Microsoft Fabric: What Changed in DP-700 in 2026, and How to Prepare Now](https://mbvyn.medium.com/dp700-whats-new-2026-c6cc36ff7bfa?source=rss-aefe58b8f16b------2)
 - [Understanding dbt: What Changed Since dbt 1.7, and Where dbt Stands in 2026](https://mbvyn.medium.com/understanding-dbt-what-changed-since-dbt-1-7-and-where-dbt-stands-in-2026-e126baf69591?source=rss-aefe58b8f16b------2)
 - [Understanding Databricks: Imperative vs Declarative, Two Ways to Build Pipelines](https://mbvyn.medium.com/understanding-databricks-imperative-vs-declarative-two-ways-to-build-pipelines-7ab4ada611bc?source=rss-aefe58b8f16b------2)
-- [Understanding Databricks: How to Structure a Databricks Project from Scratch](https://mbvyn.medium.com/understanding-databricks-how-to-structure-a-databricks-project-from-scratch-76de287671d6?source=rss-aefe58b8f16b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
